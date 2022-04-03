@@ -1,0 +1,11 @@
+{
+	"name": "sample-graphql-federation",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "takashimamorino <does1026@gmail.com>",
+	"license": "MIT",
+	"private": true,
+	"workspaces": [
+		"packages/*"
+	]
+}
